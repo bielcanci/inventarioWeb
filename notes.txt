@@ -1,0 +1,13 @@
+gestao
+[
+1 PARTE 17/10/2024
+fornecedores
+clientes
+produtos
+][
+2 PARTE 21/11/2024
+pedidos
+itens de pedido
+transacoes
+usuarios (login/registro)
+]
